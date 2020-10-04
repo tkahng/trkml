@@ -1,0 +1,6 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - tensorflow
+prefix: C:\Miniconda3\envs\ml
